@@ -25,3 +25,12 @@
    25  git log
    26  command_list.csv
    27  history > command_list.csv
+   28  git add .
+   29  git commit -m "Add command history and final files"
+   30  git push
+   31  history > command_list.csv 
+   32  clear
+   33  cd ../..
+   34  git clone https://github.com/hnataliia-web/HW_10.git
+   35  cd HW_GIT/HW_10
+   36  history > command_list.csv
